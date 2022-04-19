@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Анимация 28" itemID="623cb2c7-0000003a" symbolType="graphic" lastModified="1648145095">
+  <timeline>
+    <DOMTimeline name="Анимация 28" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" left="7.9" width="3812.45" height="600.45" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.513671875" d="0.513671875" tx="-983.25" ty="-154.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="825.15" y="285.6"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>В деревянные крылья окна&#xD;Вместе с рамами в тонкие шторы</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="241" size="200" bitmapSize="4000" face="RussoOne-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&#xD;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineHeight="114.45" size="95" bitmapSize="1900" face="RussoOne-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,593 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="есенин" itemID="623c3a44-000001e6" symbolType="graphic" lastModified="1648187503" lastUniqueIdentifier="11">
+  <timeline>
+    <DOMTimeline name="есенин" currentFrame="59" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="н" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="54" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="54" duration="5" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" easeMethodName="circOut">
+              <tweens>
+                <Ease target="all" method="circOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 25" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="2.205078125" d="2.20504760742188" tx="697.65" ty="-783.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="59" duration="5" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 26" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="700.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" duration="46" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 26" symbolType="graphic" centerPoint3DX="700.65" centerPoint3DY="-0.05" loop="loop">
+                  <matrix>
+                    <Matrix tx="700.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="и" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="49" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="49" duration="5" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" easeMethodName="circOut">
+              <tweens>
+                <Ease target="all" method="circOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 23" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="2.205078125" d="2.20504760742188" tx="570.6" ty="-783.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="54" duration="10" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 24" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="570.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" duration="46" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 24" symbolType="graphic" centerPoint3DX="570.6" centerPoint3DY="-0.05" loop="loop">
+                  <matrix>
+                    <Matrix tx="570.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="н" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="44" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="44" duration="5" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" easeMethodName="circOut">
+              <tweens>
+                <Ease target="all" method="circOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 21" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="2.205078125" d="2.20504760742188" tx="443.4" ty="-783.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="49" duration="15" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 22" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="443.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" duration="46" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 22" symbolType="graphic" centerPoint3DX="443.45" centerPoint3DY="-0.05" loop="loop">
+                  <matrix>
+                    <Matrix tx="443.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="е" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="39" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="39" duration="5" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" easeMethodName="circOut">
+              <tweens>
+                <Ease target="all" method="circOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 19" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="2.30769348144531" d="2.30757141113281" tx="319.35" ty="-783.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="44" duration="20" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 20" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="319.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" duration="46" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 20" symbolType="graphic" centerPoint3DX="319.35" centerPoint3DY="-0.05" loop="loop">
+                  <matrix>
+                    <Matrix tx="319.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="с" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="34" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="34" duration="5" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" easeMethodName="circOut">
+              <tweens>
+                <Ease target="all" method="circOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 17" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="2.50209045410156" d="2.50189208984375" tx="203.3" ty="-783.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="39" duration="25" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 18" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="203.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" duration="46" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 18" symbolType="graphic" centerPoint3DX="203.3" centerPoint3DY="-0.05" loop="loop">
+                  <matrix>
+                    <Matrix tx="203.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Е" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="29" duration="5" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" easeMethodName="circOut">
+              <tweens>
+                <Ease target="all" method="circOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 15" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="2.18977355957031" d="2.18974304199219" tx="83.7" ty="-783.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="34" duration="30" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 16" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="83.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" duration="46" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 16" symbolType="graphic" centerPoint3DX="83.75" centerPoint3DY="-0.05" loop="loop">
+                  <matrix>
+                    <Matrix tx="83.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="й" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="24" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="24" duration="5" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" easeMethodName="circOut">
+              <tweens>
+                <Ease target="all" method="circOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 13" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="2.205078125" d="2.20504760742188" tx="-104.45" ty="-783.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="29" duration="35" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 14" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-104.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" duration="46" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 14" symbolType="graphic" centerPoint3DX="-104.45" centerPoint3DY="-0.05" loop="loop">
+                  <matrix>
+                    <Matrix tx="-104.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="е" color="#00FFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="19" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="19" duration="5" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" easeMethodName="circOut">
+              <tweens>
+                <Ease target="all" method="circOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 11" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="2.30769348144531" d="2.30757141113281" tx="-228.5" ty="-783.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="24" duration="40" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 12" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-228.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" duration="46" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 12" symbolType="graphic" centerPoint3DX="-228.5" centerPoint3DY="-0.05" loop="loop">
+                  <matrix>
+                    <Matrix tx="-228.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="г" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="14" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="14" duration="5" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" easeMethodName="circOut">
+              <tweens>
+                <Ease target="all" method="circOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 9" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="2.78292846679688" d="2.7828369140625" tx="-338.5" ty="-783.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="19" duration="45" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 10" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-338.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" duration="46" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 10" symbolType="graphic" centerPoint3DX="-338.5" centerPoint3DY="-0.05" loop="loop">
+                  <matrix>
+                    <Matrix tx="-338.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="р" color="#669900" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="9" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="9" duration="5" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" easeMethodName="circOut">
+              <tweens>
+                <Ease target="all" method="circOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 7" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="2.205078125" d="2.20504760742188" tx="-451.55" ty="-783.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="14" duration="50" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 8" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-451.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" duration="46" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 8" symbolType="graphic" centerPoint3DX="-451.55" centerPoint3DY="-0.05" loop="loop">
+                  <matrix>
+                    <Matrix tx="-451.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="е" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="5" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" easeMethodName="circOut">
+              <tweens>
+                <Ease target="all" method="circOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 5" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="2.30769348144531" d="2.30757141113281" tx="-575.65" ty="-783.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="9" duration="55" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 6" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-575.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" duration="46" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 6" symbolType="graphic" centerPoint3DX="-575.65" loop="loop">
+                  <matrix>
+                    <Matrix tx="-575.65" ty="0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="С" color="#009999" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017" easeMethodName="circOut">
+              <tweens>
+                <Ease target="all" method="circOut"/>
+              </tweens>
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 1" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix a="2.23797607421875" d="2.23782348632812" tx="-696.05" ty="-780.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.7" y="0.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="4" duration="60" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 2" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="-698.75" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="64" duration="46" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="Анимация 2" symbolType="graphic" centerPoint3DX="-698.75" centerPoint3DY="-0.05" loop="loop">
+                  <matrix>
+                    <Matrix tx="-698.75" ty="-0.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
