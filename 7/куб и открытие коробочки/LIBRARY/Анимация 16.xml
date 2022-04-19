@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Анимация 16" itemID="623f56da-00000033" symbolType="graphic" lastModified="1648318170">
+  <timeline>
+    <DOMTimeline name="Анимация 16" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFF00"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-13134 -6567/1 -6567!1 -6567/13135 6567!13135 6567/1 6567!1 6567/-13134 -6567"/>
+                    <Edge cubics="!-13134 -6567(;-13134,-6567 1,-6567 1,-6567q-13134 -6567 1 -6567);"/>
+                    <Edge cubics="!1 -6567(;1,-6567 13135,6567 13135,6567q1 -6567 13135 6567);"/>
+                    <Edge cubics="!13135 6567(;13135,6567 1,6567 1,6567q13135 6567 1 6567);"/>
+                    <Edge cubics="!1 6567(;1,6567 -13134,-6567 -13134,-6567q1 6567 -13134 -6567);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

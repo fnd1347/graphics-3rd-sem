@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Анимация 10" itemID="623e3b67-000000a8" symbolType="graphic" lastModified="1648245607">
+  <timeline>
+    <DOMTimeline name="Анимация 10" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix tx="-1078.95" ty="-1065.1"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#00FFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!21579 12014S2|30867 21302!30867 21302|21580 30590!21580 30590|12292 21302!12292 21302|21579 12014"/>
+                    <Edge cubics="!21580 30590(;21580,30590 12292,21302 12292,21302q21580 30590 12292 21302);"/>
+                    <Edge cubics="!21579 12014(;21579,12014 30867,21302 30867,21302q21579 12014 30867 21302);"/>
+                    <Edge cubics="!12292 21302(;12292,21302 21579,12014 21579,12014q12292 21302 21579 12014);"/>
+                    <Edge cubics="!30867 21302(;30867,21302 21580,30590 21580,30590q30867 21302 21580 30590);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
