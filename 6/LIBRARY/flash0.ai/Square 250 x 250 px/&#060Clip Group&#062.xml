@@ -1,0 +1,85 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="flash0.ai/Square 250 x 250 px/&amp;#060Clip Group&amp;#062" itemID="623d8349-0000009f" lastModified="1648198473">
+  <timeline>
+    <DOMTimeline name="&amp;#060Clip Group&amp;#062" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Слой_4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="10">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!4395 4641|1867 5118!1867 5118|1267 1934!1267 1934|3794 1457!3794 1457|4395 4641"/>
+                    <Edge cubics="!4395 4641(;4395,4641 1867,5118 1867,5118q4395 4641 1867 5118);"/>
+                    <Edge cubics="!1867 5118(;1867,5118 1267,1934 1267,1934q1867 5118 1267 1934);"/>
+                    <Edge cubics="!1267 1934(;1267,1934 3794,1457 3794,1457q1267 1934 3794 1457);"/>
+                    <Edge cubics="!3794 1457(;3794,1457 4395,4641 4395,4641q3794 1457 4395 4641);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_2" color="#9933CC" locked="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!4395 4641|1867 5118!1867 5118|1267 1934!1267 1934|3794 1457!3794 1457|4395 4641"/>
+                    <Edge cubics="!4395 4641(;4395,4641 1867,5118 1867,5118q4395 4641 1867 5118);"/>
+                    <Edge cubics="!1867 5118(;1867,5118 1267,1934 1267,1934q1867 5118 1267 1934);"/>
+                    <Edge cubics="!1267 1934(;1267,1934 3794,1457 3794,1457q1267 1934 3794 1457);"/>
+                    <Edge cubics="!3794 1457(;3794,1457 4395,4641 4395,4641q3794 1457 4395 4641);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_3" color="#FF800A" parentLayerIndex="1" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#F1E30F"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!5505 5772|1090 6606!1090 6606|0 834!0 834|4415 0!4415 0|5505 5772"/>
+                    <Edge cubics="!5505 5772(;5505,5772 1090,6606 1090,6606q5505 5772 1090 6606);"/>
+                    <Edge cubics="!1090 6606(;1090,6606 0,834 0,834q1090 6606 0 834);"/>
+                    <Edge cubics="!0 834(;0,834 4415,0 4415,0q0 834 4415 0);"/>
+                    <Edge cubics="!4415 0(;4415,0 5505,5772 5505,5772q4415 0 5505 5772);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_1" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

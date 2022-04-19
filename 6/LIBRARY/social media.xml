@@ -1,0 +1,1052 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="social media" itemID="623d8c27-00000148" symbolType="graphic" lastModified="1648202971">
+  <timeline>
+    <DOMTimeline name="social media" currentFrame="44" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Слой_7" color="#00FFFF">
+          <frames>
+            <DOMFrame index="0" duration="29" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!3641 20380[3641 20430 3605 20463!3605 20463[3572 20499 3522 20499!3522 20499[3475 20499 3438 20463!3438 20463[3402 20430 3402 20380!3402 20380[3402 20329 3438 20293!3438 20293[3471 20257 3522 20257!3522 20257[3572 20257 3605 20293!3605
+ 20293[3641 20329 3641 20380"/>
+                        <Edge cubics="!3438 20463(;3414,20441 3402,20413 3402,20380q3438 20463Q3402 20430q3402 20380);"/>
+                        <Edge cubics="!3522 20499(;3491,20499 3463,20487 3438,20463q3522 20499Q3475 20499q3438 20463);"/>
+                        <Edge cubics="!3605 20463(;3583,20487 3555,20499 3522,20499q3605 20463Q3572 20499q3522 20499);"/>
+                        <Edge cubics="!3641 20380(;3641,20413 3629,20441 3605,20463q3641 20380Q3641 20430q3605 20463);"/>
+                        <Edge cubics="!3605 20293(;3629,20317 3641,20346 3641,20380q3605 20293Q3641 20329q3641 20380);"/>
+                        <Edge cubics="!3522 20257(;3555,20257 3583,20269 3605,20293q3522 20257Q3572 20257q3605 20293);"/>
+                        <Edge cubics="!3438 20293(;3460,20269 3488,20257 3522,20257q3438 20293Q3471 20257q3522 20257);"/>
+                        <Edge cubics="!3402 20380(;3402,20346 3414,20317 3438,20293q3402 20380Q3402 20329q3438 20293);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="59.8" height="9" isSelectable="false">
+                      <matrix>
+                        <Matrix a="3.61930847167969" d="3.61930847167969" tx="198.9" ty="1002.55"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>social media</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="1.8" lineHeight="9" size="9" bitmapSize="180" face="AnonymousPro-Bold"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!3641 20380[3641 20430 3605 20463!3605 20463[3572 20499 3522 20499!3522 20499[3475 20499 3438 20463!3438 20463[3402 20430 3402 20380!3402 20380[3402 20329 3438 20293!3438 20293[3471 20257 3522 20257!3522 20257[3572 20257 3605 20293!3605
+ 20293[3641 20329 3641 20380"/>
+                        <Edge cubics="!3438 20463(;3414,20441 3402,20413 3402,20380q3438 20463Q3402 20430q3402 20380);"/>
+                        <Edge cubics="!3522 20499(;3491,20499 3463,20487 3438,20463q3522 20499Q3475 20499q3438 20463);"/>
+                        <Edge cubics="!3605 20463(;3583,20487 3555,20499 3522,20499q3605 20463Q3572 20499q3522 20499);"/>
+                        <Edge cubics="!3641 20380(;3641,20413 3629,20441 3605,20463q3641 20380Q3641 20430q3605 20463);"/>
+                        <Edge cubics="!3605 20293(;3629,20317 3641,20346 3641,20380q3605 20293Q3641 20329q3641 20380);"/>
+                        <Edge cubics="!3522 20257(;3555,20257 3583,20269 3605,20293q3522 20257Q3572 20257q3605 20293);"/>
+                        <Edge cubics="!3438 20293(;3460,20269 3488,20257 3522,20257q3438 20293Q3471 20257q3522 20257);"/>
+                        <Edge cubics="!3402 20380(;3402,20346 3414,20317 3438,20293q3402 20380Q3402 20329q3438 20293);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="59.8" height="9" isSelectable="false">
+                      <matrix>
+                        <Matrix a="3.61930847167969" d="3.61930847167969" tx="198.9" ty="1002.55"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>social media</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="1.8" lineHeight="9" size="9" bitmapSize="180" face="AnonymousPro-Bold"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_5" color="#FF0000">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="20" duration="29" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!2639 19374[2639 19424 2603 19457!2603 19457[2570 19493 2520 19493!2520 19493[2473 19493 2436 19457!2436 19457[2400 19424 2400 19374!2400 19374[2400 19323 2436 19287!2436 19287[2469 19251 2520 19251!2520 19251[2570 19251 2603 19287!2603
+ 19287[2639 19323 2639 19374"/>
+                        <Edge cubics="!2436 19457(;2412,19435 2400,19407 2400,19374q2436 19457Q2400 19424q2400 19374);"/>
+                        <Edge cubics="!2520 19493(;2489,19493 2461,19481 2436,19457q2520 19493Q2473 19493q2436 19457);"/>
+                        <Edge cubics="!2603 19457(;2581,19481 2553,19493 2520,19493q2603 19457Q2570 19493q2520 19493);"/>
+                        <Edge cubics="!2639 19374(;2639,19407 2627,19435 2603,19457q2639 19374Q2639 19424q2603 19457);"/>
+                        <Edge cubics="!2603 19287(;2627,19311 2639,19340 2639,19374q2603 19287Q2639 19323q2639 19374);"/>
+                        <Edge cubics="!2520 19251(;2553,19251 2581,19263 2603,19287q2520 19251Q2570 19251q2603 19287);"/>
+                        <Edge cubics="!2436 19287(;2458,19263 2486,19251 2520,19251q2436 19287Q2469 19251q2520 19251);"/>
+                        <Edge cubics="!2400 19374(;2400,19340 2412,19311 2436,19287q2400 19374Q2400 19323q2436 19287);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="59.8" height="9" isSelectable="false">
+                      <matrix>
+                        <Matrix a="3.61930847167969" d="3.61930847167969" tx="148.8" ty="952.25"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>social media</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="1.8" lineHeight="9" size="9" bitmapSize="180" face="AnonymousPro-Bold"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.8515625"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="49" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!2639 19374[2639 19424 2603 19457!2603 19457[2570 19493 2520 19493!2520 19493[2473 19493 2436 19457!2436 19457[2400 19424 2400 19374!2400 19374[2400 19323 2436 19287!2436 19287[2469 19251 2520 19251!2520 19251[2570 19251 2603 19287!2603
+ 19287[2639 19323 2639 19374"/>
+                        <Edge cubics="!2436 19457(;2412,19435 2400,19407 2400,19374q2436 19457Q2400 19424q2400 19374);"/>
+                        <Edge cubics="!2520 19493(;2489,19493 2461,19481 2436,19457q2520 19493Q2473 19493q2436 19457);"/>
+                        <Edge cubics="!2603 19457(;2581,19481 2553,19493 2520,19493q2603 19457Q2570 19493q2520 19493);"/>
+                        <Edge cubics="!2639 19374(;2639,19407 2627,19435 2603,19457q2639 19374Q2639 19424q2603 19457);"/>
+                        <Edge cubics="!2603 19287(;2627,19311 2639,19340 2639,19374q2603 19287Q2639 19323q2639 19374);"/>
+                        <Edge cubics="!2520 19251(;2553,19251 2581,19263 2603,19287q2520 19251Q2570 19251q2603 19287);"/>
+                        <Edge cubics="!2436 19287(;2458,19263 2486,19251 2520,19251q2436 19287Q2469 19251q2520 19251);"/>
+                        <Edge cubics="!2400 19374(;2400,19340 2412,19311 2436,19287q2400 19374Q2400 19323q2436 19287);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="59.8" height="9" isSelectable="false">
+                      <matrix>
+                        <Matrix a="3.61930847167969" d="3.61930847167969" tx="148.8" ty="952.25"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>social media</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="1.8" lineHeight="9" size="9" bitmapSize="180" face="AnonymousPro-Bold"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.8515625"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="50" duration="35" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_12" color="#FF0000">
+          <frames>
+            <DOMFrame index="0" duration="20" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="20" duration="29" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!4655 21401[4655 21451 4619 21484!4619 21484[4586 21520 4536 21520!4536 21520[4489 21520 4452 21484!4452 21484[4416 21451 4416 21401!4416 21401[4416 21350 4452 21314!4452 21314[4485 21278 4536 21278!4536 21278[4586 21278 4619 21314!4619
+ 21314[4655 21350 4655 21401"/>
+                        <Edge cubics="!4452 21484(;4428,21462 4416,21434 4416,21401q4452 21484Q4416 21451q4416 21401);"/>
+                        <Edge cubics="!4536 21520(;4505,21520 4477,21508 4452,21484q4536 21520Q4489 21520q4452 21484);"/>
+                        <Edge cubics="!4619 21484(;4597,21508 4569,21520 4536,21520q4619 21484Q4586 21520q4536 21520);"/>
+                        <Edge cubics="!4655 21401(;4655,21434 4643,21462 4619,21484q4655 21401Q4655 21451q4619 21484);"/>
+                        <Edge cubics="!4619 21314(;4643,21338 4655,21367 4655,21401q4619 21314Q4655 21350q4655 21401);"/>
+                        <Edge cubics="!4536 21278(;4569,21278 4597,21290 4619,21314q4536 21278Q4586 21278q4619 21314);"/>
+                        <Edge cubics="!4452 21314(;4474,21290 4502,21278 4536,21278q4452 21314Q4485 21278q4536 21278);"/>
+                        <Edge cubics="!4416 21401(;4416,21367 4428,21338 4452,21314q4416 21401Q4416 21350q4452 21314);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="59.8" height="9" isSelectable="false">
+                      <matrix>
+                        <Matrix a="3.61930847167969" d="3.61930847167969" tx="249.6" ty="1053.6"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>social media</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="1.8" lineHeight="9" size="9" bitmapSize="180" face="AnonymousPro-Bold"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.8515625"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="49" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <matrix>
+                    <Matrix tx="91.45" ty="101"/>
+                  </matrix>
+                  <members>
+                    <DOMShape>
+                      <matrix>
+                        <Matrix tx="91.45" ty="101"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!2826 19381[2826 19431 2790 19464!2790 19464[2757 19500 2707 19500!2707 19500[2660 19500 2623 19464!2623 19464[2587 19431 2587 19381!2587 19381[2587 19330 2623 19294!2623 19294[2656 19258 2707 19258!2707 19258[2757 19258 2790 19294!2790
+ 19294[2826 19330 2826 19381"/>
+                        <Edge cubics="!2623 19464(;2599,19442 2587,19414 2587,19381q2623 19464Q2587 19431q2587 19381);"/>
+                        <Edge cubics="!2707 19500(;2676,19500 2648,19488 2623,19464q2707 19500Q2660 19500q2623 19464);"/>
+                        <Edge cubics="!2790 19464(;2768,19488 2740,19500 2707,19500q2790 19464Q2757 19500q2707 19500);"/>
+                        <Edge cubics="!2826 19381(;2826,19414 2814,19442 2790,19464q2826 19381Q2826 19431q2790 19464);"/>
+                        <Edge cubics="!2790 19294(;2814,19318 2826,19347 2826,19381q2790 19294Q2826 19330q2826 19381);"/>
+                        <Edge cubics="!2707 19258(;2740,19258 2768,19270 2790,19294q2707 19258Q2757 19258q2790 19294);"/>
+                        <Edge cubics="!2623 19294(;2645,19270 2673,19258 2707,19258q2623 19294Q2656 19258q2707 19258);"/>
+                        <Edge cubics="!2587 19381(;2587,19347 2599,19318 2623,19294q2587 19381Q2587 19330q2623 19294);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="59.8" height="9" isSelectable="false">
+                      <matrix>
+                        <Matrix a="3.61930847167969" d="3.61930847167969" tx="249.6" ty="1053.6"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>social media</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="1.8" lineHeight="9" size="9" bitmapSize="180" face="AnonymousPro-Bold"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.8515625"/>
+              </frameColor>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_11" color="#009999">
+          <frames>
+            <DOMFrame index="0" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="16" duration="29" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#00FFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!4437 21187[4437 21237 4401 21270!4401 21270[4368 21306 4318 21306!4318 21306[4271 21306 4234 21270!4234 21270[4198 21237 4198 21187!4198 21187[4198 21136 4234 21100!4234 21100[4267 21064 4318 21064!4318 21064[4368 21064 4401 21100!4401
+ 21100[4437 21136 4437 21187"/>
+                        <Edge cubics="!4234 21270(;4210,21248 4198,21220 4198,21187q4234 21270Q4198 21237q4198 21187);"/>
+                        <Edge cubics="!4318 21306(;4287,21306 4259,21294 4234,21270q4318 21306Q4271 21306q4234 21270);"/>
+                        <Edge cubics="!4401 21270(;4379,21294 4351,21306 4318,21306q4401 21270Q4368 21306q4318 21306);"/>
+                        <Edge cubics="!4437 21187(;4437,21220 4425,21248 4401,21270q4437 21187Q4437 21237q4401 21270);"/>
+                        <Edge cubics="!4401 21100(;4425,21124 4437,21153 4437,21187q4401 21100Q4437 21136q4437 21187);"/>
+                        <Edge cubics="!4318 21064(;4351,21064 4379,21076 4401,21100q4318 21064Q4368 21064q4401 21100);"/>
+                        <Edge cubics="!4234 21100(;4256,21076 4284,21064 4318,21064q4234 21100Q4267 21064q4318 21064);"/>
+                        <Edge cubics="!4198 21187(;4198,21153 4210,21124 4234,21100q4198 21187Q4198 21136q4234 21100);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="59.8" height="9" isSelectable="false">
+                      <matrix>
+                        <Matrix a="3.61930847167969" d="3.61930847167969" tx="238.7" ty="1042.9"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>social media</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="1.8" lineHeight="9" size="9" bitmapSize="180" face="AnonymousPro-Bold" fillColor="#00FFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.5"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="45" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#00FFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!4437 21187S2[4437 21237 4401 21270!4401 21270[4368 21306 4318 21306!4318 21306[4271 21306 4234 21270!4234 21270[4198 21237 4198 21187!4198 21187[4198 21136 4234 21100!4234 21100[4267 21064 4318 21064!4318 21064[4368 21064 4401 21100
+!4401 21100[4437 21136 4437 21187"/>
+                        <Edge cubics="!4234 21270(;4210,21248 4198,21220 4198,21187q4234 21270Q4198 21237q4198 21187);"/>
+                        <Edge cubics="!4318 21306(;4287,21306 4259,21294 4234,21270q4318 21306Q4271 21306q4234 21270);"/>
+                        <Edge cubics="!4401 21270(;4379,21294 4351,21306 4318,21306q4401 21270Q4368 21306q4318 21306);"/>
+                        <Edge cubics="!4437 21187(;4437,21220 4425,21248 4401,21270q4437 21187Q4437 21237q4401 21270);"/>
+                        <Edge cubics="!4401 21100(;4425,21124 4437,21153 4437,21187q4401 21100Q4437 21136q4437 21187);"/>
+                        <Edge cubics="!4318 21064(;4351,21064 4379,21076 4401,21100q4318 21064Q4368 21064q4401 21100);"/>
+                        <Edge cubics="!4234 21100(;4256,21076 4284,21064 4318,21064q4234 21100Q4267 21064q4318 21064);"/>
+                        <Edge cubics="!4198 21187(;4198,21153 4210,21124 4234,21100q4198 21187Q4198 21136q4234 21100);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="59.8" height="9" isSelectable="false">
+                      <matrix>
+                        <Matrix a="3.61930847167969" d="3.61930847167969" tx="238.7" ty="1042.9"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>social media</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="1.8" lineHeight="9" size="9" bitmapSize="180" face="AnonymousPro-Bold" fillColor="#00FFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.5"/>
+              </frameColor>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_5___копия___копия___копия___копия" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="12" duration="29" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFF00"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!4239 20974[4239 21024 4203 21057!4203 21057[4170 21093 4120 21093!4120 21093[4073 21093 4036 21057!4036 21057[4000 21024 4000 20974!4000 20974[4000 20923 4036 20887!4036 20887[4069 20851 4120 20851!4120 20851[4170 20851 4203 20887!4203
+ 20887[4239 20923 4239 20974"/>
+                        <Edge cubics="!4036 21057(;4012,21035 4000,21007 4000,20974q4036 21057Q4000 21024q4000 20974);"/>
+                        <Edge cubics="!4120 21093(;4089,21093 4061,21081 4036,21057q4120 21093Q4073 21093q4036 21057);"/>
+                        <Edge cubics="!4203 21057(;4181,21081 4153,21093 4120,21093q4203 21057Q4170 21093q4120 21093);"/>
+                        <Edge cubics="!4239 20974(;4239,21007 4227,21035 4203,21057q4239 20974Q4239 21024q4203 21057);"/>
+                        <Edge cubics="!4203 20887(;4227,20911 4239,20940 4239,20974q4203 20887Q4239 20923q4239 20974);"/>
+                        <Edge cubics="!4120 20851(;4153,20851 4181,20863 4203,20887q4120 20851Q4170 20851q4203 20887);"/>
+                        <Edge cubics="!4036 20887(;4058,20863 4086,20851 4120,20851q4036 20887Q4069 20851q4120 20851);"/>
+                        <Edge cubics="!4000 20974(;4000,20940 4012,20911 4036,20887q4000 20974Q4000 20923q4036 20887);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="59.8" height="9" isSelectable="false">
+                      <matrix>
+                        <Matrix a="3.61930847167969" d="3.61930847167969" tx="228.8" ty="1032.25"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>social media</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="1.8" lineHeight="9" size="9" bitmapSize="180" face="AnonymousPro-Bold" fillColor="#FFFF00"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.5"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="41" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFF00"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!4239 20974S2[4239 21024 4203 21057!4203 21057[4170 21093 4120 21093!4120 21093[4073 21093 4036 21057!4036 21057[4000 21024 4000 20974!4000 20974[4000 20923 4036 20887!4036 20887[4069 20851 4120 20851!4120 20851[4170 20851 4203 20887
+!4203 20887[4239 20923 4239 20974"/>
+                        <Edge cubics="!4036 21057(;4012,21035 4000,21007 4000,20974q4036 21057Q4000 21024q4000 20974);"/>
+                        <Edge cubics="!4120 21093(;4089,21093 4061,21081 4036,21057q4120 21093Q4073 21093q4036 21057);"/>
+                        <Edge cubics="!4203 21057(;4181,21081 4153,21093 4120,21093q4203 21057Q4170 21093q4120 21093);"/>
+                        <Edge cubics="!4239 20974(;4239,21007 4227,21035 4203,21057q4239 20974Q4239 21024q4203 21057);"/>
+                        <Edge cubics="!4203 20887(;4227,20911 4239,20940 4239,20974q4203 20887Q4239 20923q4239 20974);"/>
+                        <Edge cubics="!4120 20851(;4153,20851 4181,20863 4203,20887q4120 20851Q4170 20851q4203 20887);"/>
+                        <Edge cubics="!4036 20887(;4058,20863 4086,20851 4120,20851q4036 20887Q4069 20851q4120 20851);"/>
+                        <Edge cubics="!4000 20974(;4000,20940 4012,20911 4036,20887q4000 20974Q4000 20923q4036 20887);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="59.8" height="9" isSelectable="false">
+                      <matrix>
+                        <Matrix a="3.61930847167969" d="3.61930847167969" tx="228.8" ty="1032.25"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>social media</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="1.8" lineHeight="9" size="9" bitmapSize="180" face="AnonymousPro-Bold" fillColor="#FFFF00"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.5"/>
+              </frameColor>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_6" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" duration="29" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#00FFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!4034 20778[4034 20828 3998 20861!3998 20861[3965 20897 3915 20897!3915 20897[3868 20897 3831 20861!3831 20861[3795 20828 3795 20778!3795 20778[3795 20727 3831 20691!3831 20691[3864 20655 3915 20655!3915 20655[3965 20655 3998 20691!3998
+ 20691[4034 20727 4034 20778"/>
+                        <Edge cubics="!3831 20861(;3807,20839 3795,20811 3795,20778q3831 20861Q3795 20828q3795 20778);"/>
+                        <Edge cubics="!3915 20897(;3884,20897 3856,20885 3831,20861q3915 20897Q3868 20897q3831 20861);"/>
+                        <Edge cubics="!3998 20861(;3976,20885 3948,20897 3915,20897q3998 20861Q3965 20897q3915 20897);"/>
+                        <Edge cubics="!4034 20778(;4034,20811 4022,20839 3998,20861q4034 20778Q4034 20828q3998 20861);"/>
+                        <Edge cubics="!3998 20691(;4022,20715 4034,20744 4034,20778q3998 20691Q4034 20727q4034 20778);"/>
+                        <Edge cubics="!3915 20655(;3948,20655 3976,20667 3998,20691q3915 20655Q3965 20655q3998 20691);"/>
+                        <Edge cubics="!3831 20691(;3853,20667 3881,20655 3915,20655q3831 20691Q3864 20655q3915 20655);"/>
+                        <Edge cubics="!3795 20778(;3795,20744 3807,20715 3831,20691q3795 20778Q3795 20727q3831 20691);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="59.8" height="9" isSelectable="false">
+                      <matrix>
+                        <Matrix a="3.61930847167969" d="3.61930847167969" tx="218.55" ty="1022.45"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>social media</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="1.8" lineHeight="9" size="9" bitmapSize="180" face="AnonymousPro-Bold" fillColor="#00FFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.5"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="37" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#00FFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!4034 20778[4034 20828 3998 20861!3998 20861[3965 20897 3915 20897!3915 20897[3868 20897 3831 20861!3831 20861[3795 20828 3795 20778!3795 20778[3795 20727 3831 20691!3831 20691[3864 20655 3915 20655!3915 20655[3965 20655 3998 20691!3998
+ 20691[4034 20727 4034 20778"/>
+                        <Edge cubics="!3831 20861(;3807,20839 3795,20811 3795,20778q3831 20861Q3795 20828q3795 20778);"/>
+                        <Edge cubics="!3915 20897(;3884,20897 3856,20885 3831,20861q3915 20897Q3868 20897q3831 20861);"/>
+                        <Edge cubics="!3998 20861(;3976,20885 3948,20897 3915,20897q3998 20861Q3965 20897q3915 20897);"/>
+                        <Edge cubics="!4034 20778(;4034,20811 4022,20839 3998,20861q4034 20778Q4034 20828q3998 20861);"/>
+                        <Edge cubics="!3998 20691(;4022,20715 4034,20744 4034,20778q3998 20691Q4034 20727q4034 20778);"/>
+                        <Edge cubics="!3915 20655(;3948,20655 3976,20667 3998,20691q3915 20655Q3965 20655q3998 20691);"/>
+                        <Edge cubics="!3831 20691(;3853,20667 3881,20655 3915,20655q3831 20691Q3864 20655q3915 20655);"/>
+                        <Edge cubics="!3795 20778(;3795,20744 3807,20715 3831,20691q3795 20778Q3795 20727q3831 20691);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="59.8" height="9" isSelectable="false">
+                      <matrix>
+                        <Matrix a="3.61930847167969" d="3.61930847167969" tx="218.55" ty="1022.45"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>social media</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="1.8" lineHeight="9" size="9" bitmapSize="180" face="AnonymousPro-Bold" fillColor="#00FFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.5"/>
+              </frameColor>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_5___копия___копия___копия" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="29" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFF00"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!3839 20574[3839 20624 3803 20657!3803 20657[3770 20693 3720 20693!3720 20693[3673 20693 3636 20657!3636 20657[3600 20624 3600 20574!3600 20574[3600 20523 3636 20487!3636 20487[3669 20451 3720 20451!3720 20451[3770 20451 3803 20487!3803
+ 20487[3839 20523 3839 20574"/>
+                        <Edge cubics="!3636 20657(;3612,20635 3600,20607 3600,20574q3636 20657Q3600 20624q3600 20574);"/>
+                        <Edge cubics="!3720 20693(;3689,20693 3661,20681 3636,20657q3720 20693Q3673 20693q3636 20657);"/>
+                        <Edge cubics="!3803 20657(;3781,20681 3753,20693 3720,20693q3803 20657Q3770 20693q3720 20693);"/>
+                        <Edge cubics="!3839 20574(;3839,20607 3827,20635 3803,20657q3839 20574Q3839 20624q3803 20657);"/>
+                        <Edge cubics="!3803 20487(;3827,20511 3839,20540 3839,20574q3803 20487Q3839 20523q3839 20574);"/>
+                        <Edge cubics="!3720 20451(;3753,20451 3781,20463 3803,20487q3720 20451Q3770 20451q3803 20487);"/>
+                        <Edge cubics="!3636 20487(;3658,20463 3686,20451 3720,20451q3636 20487Q3669 20451q3720 20451);"/>
+                        <Edge cubics="!3600 20574(;3600,20540 3612,20511 3636,20487q3600 20574Q3600 20523q3636 20487);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="59.8" height="9" isSelectable="false">
+                      <matrix>
+                        <Matrix a="3.61930847167969" d="3.61930847167969" tx="208.8" ty="1012.25"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>social media</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="1.8" lineHeight="9" size="9" bitmapSize="180" face="AnonymousPro-Bold" fillColor="#FFFF00"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.5"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="33" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFF00"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!3839 20574[3839 20624 3803 20657!3803 20657[3770 20693 3720 20693!3720 20693[3673 20693 3636 20657!3636 20657[3600 20624 3600 20574!3600 20574[3600 20523 3636 20487!3636 20487[3669 20451 3720 20451!3720 20451[3770 20451 3803 20487!3803
+ 20487[3839 20523 3839 20574"/>
+                        <Edge cubics="!3636 20657(;3612,20635 3600,20607 3600,20574q3636 20657Q3600 20624q3600 20574);"/>
+                        <Edge cubics="!3720 20693(;3689,20693 3661,20681 3636,20657q3720 20693Q3673 20693q3636 20657);"/>
+                        <Edge cubics="!3803 20657(;3781,20681 3753,20693 3720,20693q3803 20657Q3770 20693q3720 20693);"/>
+                        <Edge cubics="!3839 20574(;3839,20607 3827,20635 3803,20657q3839 20574Q3839 20624q3803 20657);"/>
+                        <Edge cubics="!3803 20487(;3827,20511 3839,20540 3839,20574q3803 20487Q3839 20523q3839 20574);"/>
+                        <Edge cubics="!3720 20451(;3753,20451 3781,20463 3803,20487q3720 20451Q3770 20451q3803 20487);"/>
+                        <Edge cubics="!3636 20487(;3658,20463 3686,20451 3720,20451q3636 20487Q3669 20451q3720 20451);"/>
+                        <Edge cubics="!3600 20574(;3600,20540 3612,20511 3636,20487q3600 20574Q3600 20523q3636 20487);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="59.8" height="9" isSelectable="false">
+                      <matrix>
+                        <Matrix a="3.61930847167969" d="3.61930847167969" tx="208.8" ty="1012.25"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>social media</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="1.8" lineHeight="9" size="9" bitmapSize="180" face="AnonymousPro-Bold" fillColor="#FFFF00"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.5"/>
+              </frameColor>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_5___копия___копия" color="#FF0000" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="29" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#00FFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!3439 20174[3439 20224 3403 20257!3403 20257[3370 20293 3320 20293!3320 20293[3273 20293 3236 20257!3236 20257[3200 20224 3200 20174!3200 20174[3200 20123 3236 20087!3236 20087[3269 20051 3320 20051!3320 20051[3370 20051 3403 20087!3403
+ 20087[3439 20123 3439 20174"/>
+                        <Edge cubics="!3236 20257(;3212,20235 3200,20207 3200,20174q3236 20257Q3200 20224q3200 20174);"/>
+                        <Edge cubics="!3320 20293(;3289,20293 3261,20281 3236,20257q3320 20293Q3273 20293q3236 20257);"/>
+                        <Edge cubics="!3403 20257(;3381,20281 3353,20293 3320,20293q3403 20257Q3370 20293q3320 20293);"/>
+                        <Edge cubics="!3439 20174(;3439,20207 3427,20235 3403,20257q3439 20174Q3439 20224q3403 20257);"/>
+                        <Edge cubics="!3403 20087(;3427,20111 3439,20140 3439,20174q3403 20087Q3439 20123q3439 20174);"/>
+                        <Edge cubics="!3320 20051(;3353,20051 3381,20063 3403,20087q3320 20051Q3370 20051q3403 20087);"/>
+                        <Edge cubics="!3236 20087(;3258,20063 3286,20051 3320,20051q3236 20087Q3269 20051q3320 20051);"/>
+                        <Edge cubics="!3200 20174(;3200,20140 3212,20111 3236,20087q3200 20174Q3200 20123q3236 20087);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="59.8" height="9" isSelectable="false">
+                      <matrix>
+                        <Matrix a="3.61930847167969" d="3.61930847167969" tx="188.8" ty="992.25"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>social media</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="1.8" lineHeight="9" size="9" bitmapSize="180" face="AnonymousPro-Bold" fillColor="#00FFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.5"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="33" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#00FFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!3439 20174[3439 20224 3403 20257!3403 20257[3370 20293 3320 20293!3320 20293[3273 20293 3236 20257!3236 20257[3200 20224 3200 20174!3200 20174[3200 20123 3236 20087!3236 20087[3269 20051 3320 20051!3320 20051[3370 20051 3403 20087!3403
+ 20087[3439 20123 3439 20174"/>
+                        <Edge cubics="!3236 20257(;3212,20235 3200,20207 3200,20174q3236 20257Q3200 20224q3200 20174);"/>
+                        <Edge cubics="!3320 20293(;3289,20293 3261,20281 3236,20257q3320 20293Q3273 20293q3236 20257);"/>
+                        <Edge cubics="!3403 20257(;3381,20281 3353,20293 3320,20293q3403 20257Q3370 20293q3320 20293);"/>
+                        <Edge cubics="!3439 20174(;3439,20207 3427,20235 3403,20257q3439 20174Q3439 20224q3403 20257);"/>
+                        <Edge cubics="!3403 20087(;3427,20111 3439,20140 3439,20174q3403 20087Q3439 20123q3439 20174);"/>
+                        <Edge cubics="!3320 20051(;3353,20051 3381,20063 3403,20087q3320 20051Q3370 20051q3403 20087);"/>
+                        <Edge cubics="!3236 20087(;3258,20063 3286,20051 3320,20051q3236 20087Q3269 20051q3320 20051);"/>
+                        <Edge cubics="!3200 20174(;3200,20140 3212,20111 3236,20087q3200 20174Q3200 20123q3236 20087);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="59.8" height="9" isSelectable="false">
+                      <matrix>
+                        <Matrix a="3.61930847167969" d="3.61930847167969" tx="188.8" ty="992.25"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>social media</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="1.8" lineHeight="9" size="9" bitmapSize="180" face="AnonymousPro-Bold" fillColor="#00FFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.5"/>
+              </frameColor>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_8" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="8" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="8" duration="29" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFF00"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!3233 19978[3233 20028 3197 20061!3197 20061[3164 20097 3114 20097!3114 20097[3067 20097 3030 20061!3030 20061[2994 20028 2994 19978!2994 19978[2994 19927 3030 19891!3030 19891[3063 19855 3114 19855!3114 19855[3164 19855 3197 19891!3197
+ 19891[3233 19927 3233 19978"/>
+                        <Edge cubics="!3030 20061(;3006,20039 2994,20011 2994,19978q3030 20061Q2994 20028q2994 19978);"/>
+                        <Edge cubics="!3114 20097(;3083,20097 3055,20085 3030,20061q3114 20097Q3067 20097q3030 20061);"/>
+                        <Edge cubics="!3197 20061(;3175,20085 3147,20097 3114,20097q3197 20061Q3164 20097q3114 20097);"/>
+                        <Edge cubics="!3233 19978(;3233,20011 3221,20039 3197,20061q3233 19978Q3233 20028q3197 20061);"/>
+                        <Edge cubics="!3197 19891(;3221,19915 3233,19944 3233,19978q3197 19891Q3233 19927q3233 19978);"/>
+                        <Edge cubics="!3114 19855(;3147,19855 3175,19867 3197,19891q3114 19855Q3164 19855q3197 19891);"/>
+                        <Edge cubics="!3030 19891(;3052,19867 3080,19855 3114,19855q3030 19891Q3063 19855q3114 19855);"/>
+                        <Edge cubics="!2994 19978(;2994,19944 3006,19915 3030,19891q2994 19978Q2994 19927q3030 19891);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="59.8" height="9" isSelectable="false">
+                      <matrix>
+                        <Matrix a="3.61930847167969" d="3.61930847167969" tx="178.5" ty="982.45"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>social media</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="1.8" lineHeight="9" size="9" bitmapSize="180" face="AnonymousPro-Bold" fillColor="#FFFF00"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.5"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="37" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFF00"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!3233 19978[3233 20028 3197 20061!3197 20061[3164 20097 3114 20097!3114 20097[3067 20097 3030 20061!3030 20061[2994 20028 2994 19978!2994 19978[2994 19927 3030 19891!3030 19891[3063 19855 3114 19855!3114 19855[3164 19855 3197 19891!3197
+ 19891[3233 19927 3233 19978"/>
+                        <Edge cubics="!3030 20061(;3006,20039 2994,20011 2994,19978q3030 20061Q2994 20028q2994 19978);"/>
+                        <Edge cubics="!3114 20097(;3083,20097 3055,20085 3030,20061q3114 20097Q3067 20097q3030 20061);"/>
+                        <Edge cubics="!3197 20061(;3175,20085 3147,20097 3114,20097q3197 20061Q3164 20097q3114 20097);"/>
+                        <Edge cubics="!3233 19978(;3233,20011 3221,20039 3197,20061q3233 19978Q3233 20028q3197 20061);"/>
+                        <Edge cubics="!3197 19891(;3221,19915 3233,19944 3233,19978q3197 19891Q3233 19927q3233 19978);"/>
+                        <Edge cubics="!3114 19855(;3147,19855 3175,19867 3197,19891q3114 19855Q3164 19855q3197 19891);"/>
+                        <Edge cubics="!3030 19891(;3052,19867 3080,19855 3114,19855q3030 19891Q3063 19855q3114 19855);"/>
+                        <Edge cubics="!2994 19978(;2994,19944 3006,19915 3030,19891q2994 19978Q2994 19927q3030 19891);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="59.8" height="9" isSelectable="false">
+                      <matrix>
+                        <Matrix a="3.61930847167969" d="3.61930847167969" tx="178.5" ty="982.45"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>social media</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="1.8" lineHeight="9" size="9" bitmapSize="180" face="AnonymousPro-Bold" fillColor="#FFFF00"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.5"/>
+              </frameColor>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_10" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="12" duration="29" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#00FFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!3039 19774[3039 19824 3003 19857!3003 19857[2970 19893 2920 19893!2920 19893[2873 19893 2836 19857!2836 19857[2800 19824 2800 19774!2800 19774[2800 19723 2836 19687!2836 19687[2869 19651 2920 19651!2920 19651[2970 19651 3003 19687!3003
+ 19687[3039 19723 3039 19774"/>
+                        <Edge cubics="!2836 19857(;2812,19835 2800,19807 2800,19774q2836 19857Q2800 19824q2800 19774);"/>
+                        <Edge cubics="!2920 19893(;2889,19893 2861,19881 2836,19857q2920 19893Q2873 19893q2836 19857);"/>
+                        <Edge cubics="!3003 19857(;2981,19881 2953,19893 2920,19893q3003 19857Q2970 19893q2920 19893);"/>
+                        <Edge cubics="!3039 19774(;3039,19807 3027,19835 3003,19857q3039 19774Q3039 19824q3003 19857);"/>
+                        <Edge cubics="!3003 19687(;3027,19711 3039,19740 3039,19774q3003 19687Q3039 19723q3039 19774);"/>
+                        <Edge cubics="!2920 19651(;2953,19651 2981,19663 3003,19687q2920 19651Q2970 19651q3003 19687);"/>
+                        <Edge cubics="!2836 19687(;2858,19663 2886,19651 2920,19651q2836 19687Q2869 19651q2920 19651);"/>
+                        <Edge cubics="!2800 19774(;2800,19740 2812,19711 2836,19687q2800 19774Q2800 19723q2836 19687);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="59.8" height="9" isSelectable="false">
+                      <matrix>
+                        <Matrix a="3.61930847167969" d="3.61930847167969" tx="168.8" ty="972.25"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>social media</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="1.8" lineHeight="9" size="9" bitmapSize="180" face="AnonymousPro-Bold" fillColor="#00FFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.5"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="41" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#00FFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!3039 19774S2[3039 19824 3003 19857!3003 19857[2970 19893 2920 19893!2920 19893[2873 19893 2836 19857!2836 19857[2800 19824 2800 19774!2800 19774[2800 19723 2836 19687!2836 19687[2869 19651 2920 19651!2920 19651[2970 19651 3003 19687
+!3003 19687[3039 19723 3039 19774"/>
+                        <Edge cubics="!2836 19857(;2812,19835 2800,19807 2800,19774q2836 19857Q2800 19824q2800 19774);"/>
+                        <Edge cubics="!2920 19893(;2889,19893 2861,19881 2836,19857q2920 19893Q2873 19893q2836 19857);"/>
+                        <Edge cubics="!3003 19857(;2981,19881 2953,19893 2920,19893q3003 19857Q2970 19893q2920 19893);"/>
+                        <Edge cubics="!3039 19774(;3039,19807 3027,19835 3003,19857q3039 19774Q3039 19824q3003 19857);"/>
+                        <Edge cubics="!3003 19687(;3027,19711 3039,19740 3039,19774q3003 19687Q3039 19723q3039 19774);"/>
+                        <Edge cubics="!2920 19651(;2953,19651 2981,19663 3003,19687q2920 19651Q2970 19651q3003 19687);"/>
+                        <Edge cubics="!2836 19687(;2858,19663 2886,19651 2920,19651q2836 19687Q2869 19651q2920 19651);"/>
+                        <Edge cubics="!2800 19774(;2800,19740 2812,19711 2836,19687q2800 19774Q2800 19723q2836 19687);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="59.8" height="9" isSelectable="false">
+                      <matrix>
+                        <Matrix a="3.61930847167969" d="3.61930847167969" tx="168.8" ty="972.25"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>social media</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="1.8" lineHeight="9" size="9" bitmapSize="180" face="AnonymousPro-Bold" fillColor="#00FFFF"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.5"/>
+              </frameColor>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_9" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="16" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="16" duration="29" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFF00"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!2821 19575[2821 19625 2785 19658!2785 19658[2752 19694 2702 19694!2702 19694[2655 19694 2618 19658!2618 19658[2582 19625 2582 19575!2582 19575[2582 19524 2618 19488!2618 19488[2651 19452 2702 19452!2702 19452[2752 19452 2785 19488!2785
+ 19488[2821 19524 2821 19575"/>
+                        <Edge cubics="!2618 19658(;2594,19636 2582,19608 2582,19575q2618 19658Q2582 19625q2582 19575);"/>
+                        <Edge cubics="!2702 19694(;2671,19694 2643,19682 2618,19658q2702 19694Q2655 19694q2618 19658);"/>
+                        <Edge cubics="!2785 19658(;2763,19682 2735,19694 2702,19694q2785 19658Q2752 19694q2702 19694);"/>
+                        <Edge cubics="!2821 19575(;2821,19608 2809,19636 2785,19658q2821 19575Q2821 19625q2785 19658);"/>
+                        <Edge cubics="!2785 19488(;2809,19512 2821,19541 2821,19575q2785 19488Q2821 19524q2821 19575);"/>
+                        <Edge cubics="!2702 19452(;2735,19452 2763,19464 2785,19488q2702 19452Q2752 19452q2785 19488);"/>
+                        <Edge cubics="!2618 19488(;2640,19464 2668,19452 2702,19452q2618 19488Q2651 19452q2702 19452);"/>
+                        <Edge cubics="!2582 19575(;2582,19541 2594,19512 2618,19488q2582 19575Q2582 19524q2618 19488);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="59.8" height="9" isSelectable="false">
+                      <matrix>
+                        <Matrix a="3.61930847167969" d="3.61930847167969" tx="157.9" ty="962.3"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>social media</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="1.8" lineHeight="9" size="9" bitmapSize="180" face="AnonymousPro-Bold" fillColor="#FFFF00"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.5"/>
+              </frameColor>
+            </DOMFrame>
+            <DOMFrame index="45" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFF00"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!2821 19575S2[2821 19625 2785 19658!2785 19658[2752 19694 2702 19694!2702 19694[2655 19694 2618 19658!2618 19658[2582 19625 2582 19575!2582 19575[2582 19524 2618 19488!2618 19488[2651 19452 2702 19452!2702 19452[2752 19452 2785 19488
+!2785 19488[2821 19524 2821 19575"/>
+                        <Edge cubics="!2618 19658(;2594,19636 2582,19608 2582,19575q2618 19658Q2582 19625q2582 19575);"/>
+                        <Edge cubics="!2702 19694(;2671,19694 2643,19682 2618,19658q2702 19694Q2655 19694q2618 19658);"/>
+                        <Edge cubics="!2785 19658(;2763,19682 2735,19694 2702,19694q2785 19658Q2752 19694q2702 19694);"/>
+                        <Edge cubics="!2821 19575(;2821,19608 2809,19636 2785,19658q2821 19575Q2821 19625q2785 19658);"/>
+                        <Edge cubics="!2785 19488(;2809,19512 2821,19541 2821,19575q2785 19488Q2821 19524q2821 19575);"/>
+                        <Edge cubics="!2702 19452(;2735,19452 2763,19464 2785,19488q2702 19452Q2752 19452q2785 19488);"/>
+                        <Edge cubics="!2618 19488(;2640,19464 2668,19452 2702,19452q2618 19488Q2651 19452q2702 19452);"/>
+                        <Edge cubics="!2582 19575(;2582,19541 2594,19512 2618,19488q2582 19575Q2582 19524q2618 19488);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="59.8" height="9" isSelectable="false">
+                      <matrix>
+                        <Matrix a="3.61930847167969" d="3.61930847167969" tx="157.9" ty="962.3"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>social media</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="1.8" lineHeight="9" size="9" bitmapSize="180" face="AnonymousPro-Bold" fillColor="#FFFF00"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.5"/>
+              </frameColor>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

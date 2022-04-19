@@ -1,0 +1,152 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="style chernovik" itemID="623dce40-00000278" symbolType="graphic" lastModified="1648217723">
+  <timeline>
+    <DOMTimeline name="style chernovik" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="style" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728" rigPropagationMatrix='{"a":65536,"b":-5,"c":5,"d":65536,"tx":0,"ty":0}'>
+              <elements>
+                <DOMStaticText left="-13.85" width="122.7" height="45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.98321533203125" b="-0.182220458984375" c="0.182220458984375" d="0.98321533203125" tx="-277.35" ty="-76.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="47.5" y="22.55"/>
+                  </transformationPoint>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>style</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="0" lineHeight="45" size="45" bitmapSize="900" face="AnonymousPro-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="style" color="#00FFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText left="-13.85" width="122.7" height="45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.983291625976562" b="-0.181930541992188" c="0.181930541992188" d="0.983291625976562" tx="-274.5" ty="-62.15"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>style</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="0" lineHeight="45" size="45" bitmapSize="900" face="AnonymousPro-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.69921875"/>
+              </frameColor>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="style" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText left="-13.85" width="122.7" height="45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.983291625976562" b="-0.181930541992188" c="0.181930541992188" d="0.983291625976562" tx="-271.8" ty="-47.35"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>style</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="0" lineHeight="45" size="45" bitmapSize="900" face="AnonymousPro-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.69921875"/>
+              </frameColor>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="style" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText left="-13.85" width="122.7" height="45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.983291625976562" b="-0.181930541992188" c="0.181930541992188" d="0.983291625976562" tx="-269.15" ty="-32.75"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>style</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="0" lineHeight="45" size="45" bitmapSize="900" face="AnonymousPro-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.69921875"/>
+              </frameColor>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="style" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText left="-13.85" width="122.7" height="45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.983291625976562" b="-0.181930541992188" c="0.181930541992188" d="0.983291625976562" tx="-266.5" ty="-17.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>style</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="0" lineHeight="45" size="45" bitmapSize="900" face="AnonymousPro-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.69921875"/>
+              </frameColor>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="style" color="#009999" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText left="-13.85" width="122.7" height="45" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix a="0.983291625976562" b="-0.181930541992188" c="0.181930541992188" d="0.983291625976562" tx="-263.85" ty="-1.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>style</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="0" lineHeight="45" size="45" bitmapSize="900" face="AnonymousPro-Bold"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+              <frameColor>
+                <Color alphaMultiplier="0.69921875"/>
+              </frameColor>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

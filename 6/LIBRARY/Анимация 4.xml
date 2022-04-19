@@ -1,0 +1,39 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Анимация 4" itemID="623e4cac-0000017b" symbolType="graphic" lastModified="1648250028">
+  <timeline>
+    <DOMTimeline name="Анимация 4" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-941.85" ty="-434.35"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#F1E30F"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="4">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!21364 9437|19860 9403!19860 9403|20290 10844!20290 10844|19161 9852!19161 9852|18564 11231!18564 11231|18337 9746!18337 9746|16992 10419!16992 10419|17773 9134!17773 9134|16311 8787!16311 8787|17735 8304!17735 8304|16838 7097!16838 7097
+|18239 7643!18239 7643|18328 6143!18328 6143|19050 7461!19050 7461|20082 6370!20082 6370|19788 7844!19788 7844|21280 7670!21280 7670|20108 8610!20108 8610|21364 9437"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

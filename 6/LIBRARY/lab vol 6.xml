@@ -1,0 +1,336 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="lab vol 6" itemID="623dd18f-00000284" symbolType="graphic" lastModified="1648220792">
+  <timeline>
+    <DOMTimeline name="lab vol 6" currentFrame="2" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="maska" color="#FF800A" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" duration="23" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="23" duration="12" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!619 -1173|4263 -1173!4263 -1173|4263 -546!4263 -546|619 -546!619 -546|619 -1173!404 -379|972 -379!972 -379|972 189!972 189|404 189!404 189|404 -379!1277 -329|2948 -329!2948 -329|2948 256!2948 256|1277 256!1277 256|1277 -329!3813 -412
+|4373 -412!4373 -412|4373 148!4373 148|3813 148!3813 148|3813 -412!-653 -968|229 -968!229 -968|229 301!229 301|-653 301!-653 301|-653 -968!-1756 -678|-988 -678!-988 -678|-988 113!-988 113|-1756 113!-1756 113|-1756 -678"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="35" duration="25" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="60" duration="12" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!-2422 -1156|274 -1156!274 -1156|274 -365!274 -365|-2422 -365!-2422 -365|-2422 -1156!2670 -512|5172 -512!5172 -512|5172 278!5172 278|2670 278!2670 278|2670 -512"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="72" duration="13" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!-109 -997S2|2427 -997!2427 -997|2427 97!2427 97|-109 97!-109 97|-109 -997"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_1___копия" color="#00FFFF" parentLayerIndex="0" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="23" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="23" duration="12" keyMode="9728">
+              <elements>
+                <DOMStaticText width="274.6" height="54" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.15864562988281" d="1.15864562988281" tx="-95.25" ty="-52.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>LAB VOL. 6</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineSpacing="-149" lineHeight="54" size="45" bitmapSize="900" face="ChunkFive-Regular" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="35" duration="25" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="60" duration="12" keyMode="9728">
+              <elements>
+                <DOMStaticText width="274.6" height="54" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.15864562988281" d="1.15864562988281" tx="-95.25" ty="-52.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>LAB VOL. 6</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineSpacing="-149" lineHeight="54" size="45" bitmapSize="900" face="ChunkFive-Regular" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="72" duration="13" keyMode="9728">
+              <elements>
+                <DOMStaticText width="274.6" height="54" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.15864562988281" d="1.15864562988281" tx="-95.25" ty="-52.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>LAB VOL. 6</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineSpacing="-149" lineHeight="54" size="45" bitmapSize="900" face="ChunkFive-Regular" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="maska" color="#FF4FFF" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" duration="60" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="60" duration="12" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!-2422 -1156|274 -1156!274 -1156|274 -365!274 -365|-2422 -365!-2422 -365|-2422 -1156!2670 -512|5172 -512!5172 -512|5172 278!5172 278|2670 278!2670 278|2670 -512"/>
+                    <Edge fillStyle1="1" edges="
+!-2477 -1260|5204 -1260!5204 -1260|5204 420!5204 420|-2477 420!-2477 420|-2477 -1260"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="72" duration="13" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!97 -997S1|2235 -997!2235 -997|2235 97!2235 97|97 97!97 97|97 -997"/>
+                    <Edge fillStyle1="1" edges="
+!-2477 -1260S2|5204 -1260!5204 -1260|5204 420!5204 420|-2477 420!-2477 420|-2477 -1260"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_1___копия___копия" color="#00FFFF" parentLayerIndex="2" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="35" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="35" duration="68" keyMode="9728">
+              <elements>
+                <DOMStaticText width="274.6" height="54" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-73.5" ty="-47.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>LAB VOL. 6</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineSpacing="-149" lineHeight="54" size="45" bitmapSize="900" face="ChunkFive-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_2___копия" color="#9933CC" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" duration="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="12" duration="11" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.266666666666667"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!-3584 -883S2|573 -883!573 -883|573 -411!573 -411[-1338 -413 -3249 -413!-3249 -413|-3249 -411!-3249 -411[-3249 -410 -3249 -408!-3249 -408|-3249 -405!-3249 -405[-3415 -405 -3582 -405!-3582 -405[-3583 -405 -3584 -405!-3584 -405|-3584 -883
+!-3584 -192|573 -192!573 -192|573 208!573 208[-1338 207 -3249 207!-3249 207|-3249 208!-3249 208[-3249 210 -3249 211!-3249 211|-3249 214!-3249 214[-3415 214 -3582 214!-3582 214[-3583 214 -3584 214!-3584 214|-3584 -192"/>
+                    <Edge cubics="!-3582 214(;-3583,214 -3583,214 -3584,214q-3582 214Q-3583 214q-3584 214);"/>
+                    <Edge cubics="!-3249 214(;-3360,214 -3471,214 -3582,214q-3249 214Q-3415 214q-3582 214);"/>
+                    <Edge cubics="!-3584 -192(;-3584,-192 573,-192 573,-192q-3584 -192 573 -192);"/>
+                    <Edge cubics="!573 -192(;573,-192 573,208 573,208q573 -192 573 208);"/>
+                    <Edge cubics="!-3249 211(;-3249,210 -3249,210 -3249,208q-3249 211Q-3249 210q-3249 208);"/>
+                    <Edge cubics="!-3249 208(;-3249,208 -3249,207 -3249,207q-3249 208 -3249 207);"/>
+                    <Edge cubics="!-3249 207(;-1975,207 -701,207 573,208q-3249 207Q-1338 207q573 208);"/>
+                    <Edge cubics="!-3249 211(;-3249,211 -3249,214 -3249,214q-3249 211 -3249 214);"/>
+                    <Edge cubics="!-3584 214(;-3584,214 -3584,-192 -3584,-192q-3584 214 -3584 -192);"/>
+                    <Edge cubics="!-3584 -883(;-3584,-883 573,-883 573,-883q-3584 -883 573 -883);"/>
+                    <Edge cubics="!573 -883(;573,-883 573,-411 573,-411q573 -883 573 -411);"/>
+                    <Edge cubics="!-3249 -408(;-3249,-410 -3249,-410 -3249,-411q-3249 -408Q-3249 -410q-3249 -411);"/>
+                    <Edge cubics="!-3249 -411(;-3249,-411 -3249,-413 -3249,-413q-3249 -411 -3249 -413);"/>
+                    <Edge cubics="!-3249 -413(;-1975,-413 -701,-413 573,-411q-3249 -413Q-1338 -413q573 -411);"/>
+                    <Edge cubics="!-3582 -405(;-3583,-405 -3583,-405 -3584,-405q-3582 -405Q-3583 -405q-3584 -405);"/>
+                    <Edge cubics="!-3249 -408(;-3249,-408 -3249,-405 -3249,-405q-3249 -408 -3249 -405);"/>
+                    <Edge cubics="!-3249 -405(;-3360,-405 -3471,-405 -3582,-405q-3249 -405Q-3415 -405q-3582 -405);"/>
+                    <Edge cubics="!-3584 -405(;-3584,-405 -3584,-883 -3584,-883q-3584 -405 -3584 -883);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_1___копия" color="#00FFFF" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="12" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="12" duration="11" keyMode="9728">
+              <elements>
+                <DOMStaticText width="313.8" height="66" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.07261657714844" d="1.07261657714844" tx="-317.25" ty="-49.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>LAB</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineSpacing="-149" lineHeight="66" size="55" bitmapSize="1100" face="ChunkFive-Regular" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineSpacing="-149" lineHeight="66" size="55" bitmapSize="1100" face="ChunkFive-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>VOL. 6</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineSpacing="-149" lineHeight="66" size="55" bitmapSize="1100" face="ChunkFive-Regular" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_2" color="#9933CC" locked="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" duration="12" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.266666666666667"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!80 -565S2|3184 -565!3184 -565|3184 55!3184 55[1757 54 330 54!330 54|330 56!330 56[330 57 330 60!330 60[330 61 330 63!330 63[330 64 330 65!330 65[205 65 80 65!80 65|80 -565!2995 1095|-109 1095!-109 1095|-109 512!-109 512[1443 512 2995
+ 513!2995 513|2995 1095!-364 -1255|-364 -966!-364 -966[-1916 -969 -3468 -969!-3468 -969|-3468 -1236!-3468 -1236[-3326 -1236 -3184 -1236!-3184 -1236[-3184 -1239 -3184 -1240!-3184 -1240[-3184 -1244 -3184 -1247!-3184 -1247[-3184 -1250 -3184
+ -1253!-3184 -1253[-3184 -1255 -3184 -1257!-3184 -1257[-1774 -1257 -364 -1255"/>
+                    <Edge cubics="!-364 -1255(;-364,-1255 -364,-966 -364,-966q-364 -1255 -364 -966);"/>
+                    <Edge cubics="!-3468 -969(;-3468,-969 -3468,-1236 -3468,-1236q-3468 -969 -3468 -1236);"/>
+                    <Edge cubics="!-3184 -1236(;-3279,-1236 -3373,-1236 -3468,-1236q-3184 -1236Q-3326 -1236q-3468 -1236);"/>
+                    <Edge cubics="!-3184 -1257(;-3184,-1255 -3184,-1255 -3184,-1253q-3184 -1257Q-3184 -1255q-3184 -1253);"/>
+                    <Edge cubics="!-3184 -1253(;-3184,-1250 -3184,-1248 -3184,-1247q-3184 -1253Q-3184 -1250q-3184 -1247);"/>
+                    <Edge cubics="!-3184 -1247(;-3184,-1244 -3184,-1242 -3184,-1240q-3184 -1247Q-3184 -1244q-3184 -1240);"/>
+                    <Edge cubics="!-3184 -1240(;-3184,-1239 -3184,-1239 -3184,-1236q-3184 -1240Q-3184 -1239q-3184 -1236);"/>
+                    <Edge cubics="!-364 -1255(;-1304,-1257 -2244,-1257 -3184,-1257q-364 -1255Q-1774 -1257q-3184 -1257);"/>
+                    <Edge cubics="!-3468 -969(;-2433,-969 -1399,-969 -364,-966q-3468 -969Q-1916 -969q-364 -966);"/>
+                    <Edge cubics="!2995 1095(;2995,1095 -109,1095 -109,1095q2995 1095 -109 1095);"/>
+                    <Edge cubics="!2995 513(;2995,513 2995,1095 2995,1095q2995 513 2995 1095);"/>
+                    <Edge cubics="!-109 1095(;-109,1095 -109,512 -109,512q-109 1095 -109 512);"/>
+                    <Edge cubics="!2995 513(;1960,512 926,512 -109,512q2995 513Q1443 512q-109 512);"/>
+                    <Edge cubics="!80 -565(;80,-565 3184,-565 3184,-565q80 -565 3184 -565);"/>
+                    <Edge cubics="!3184 -565(;3184,-565 3184,55 3184,55q3184 -565 3184 55);"/>
+                    <Edge cubics="!80 65(;80,65 80,-565 80,-565q80 65 80 -565);"/>
+                    <Edge cubics="!330 65(;330,64 330,64 330,63q330 65Q330 64q330 63);"/>
+                    <Edge cubics="!330 63(;330,62 330,61 330,60q330 63Q330 61q330 60);"/>
+                    <Edge cubics="!330 60(;330,58 330,57 330,56q330 60Q330 57q330 56);"/>
+                    <Edge cubics="!330 56(;330,56 330,54 330,54q330 56 330 54);"/>
+                    <Edge cubics="!80 65(;163,65 247,65 330,65q80 65Q205 65q330 65);"/>
+                    <Edge cubics="!330 54(;1281,54 2233,54 3184,55q330 54Q1757 54q3184 55);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Слой_1" color="#00FFFF" parentLayerIndex="6" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="12" keyMode="9728">
+              <elements>
+                <DOMStaticText width="313.8" height="66" isSelectable="false">
+                  <matrix>
+                    <Matrix a="1.07261657714844" d="1.07261657714844" tx="21.2" ty="-49.55"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>LAB</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineSpacing="-149" lineHeight="66" size="55" bitmapSize="1100" face="ChunkFive-Regular" fillColor="#FF0000"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> VOL. 6</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" lineSpacing="-149" lineHeight="66" size="55" bitmapSize="1100" face="ChunkFive-Regular"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
