@@ -1,0 +1,54 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Анимация 2" itemID="6242eb29-0000005b" symbolType="graphic" lastModified="1648552745">
+  <timeline>
+    <DOMTimeline name="Анимация 2" layerDepthEnabled="true">
+      <layers>
+        <DOMLayer name="Слой_1" color="#00FFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Растровое изображение 1">
+                  <matrix>
+                    <Matrix a="3.51934814453125" d="3.51934814453125" tx="-3017.45" ty="-1210.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="Растровое изображение 3">
+                  <matrix>
+                    <Matrix a="3.01124572753906" d="3.01124572753906" tx="309.55" ty="-1336.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="Растровое изображение 3 - копия">
+                  <matrix>
+                    <Matrix a="5.21726989746094" b="0.086456298828125" c="-0.086456298828125" d="5.21726989746094" tx="1452.25" ty="-1596.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="Растровое изображение 4">
+                  <matrix>
+                    <Matrix a="3.62994384765625" d="3.62994384765625" tx="-789.45" ty="-1243.7"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="Растровое изображение 5">
+                  <matrix>
+                    <Matrix a="3.26808166503906" d="3.26808166503906" tx="-679.45" ty="304.3"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="Растровое изображение 6">
+                  <matrix>
+                    <Matrix a="3.60099792480469" d="3.60099792480469" tx="-1780.45" ty="516.3"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="денчик" selected="true" centerPoint3DX="-2449.25" centerPoint3DY="1229">
+                  <matrix>
+                    <Matrix tx="-2799.75" ty="826.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="350.5" y="402.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
